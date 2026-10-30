@@ -1,0 +1,13 @@
+{
+  "name": "@shipcheck/cli",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scan": "tsx src/index.ts"
+  },
+  "dependencies": {
+    "@shipcheck/scanner": "0.1.0",
+    "tsx": "^4.21.0"
+  }
+}

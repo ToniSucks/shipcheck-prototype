@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.shipcheck/
+reports/
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+coverage/
+work/
+outputs/
+**/next-env.d.ts
